@@ -14,7 +14,7 @@ A Streamlit study companion built from **Project 1: Snap & Study** in the suppli
 - Image validation, orientation correction, resizing and metadata removal.
 - Source-backed research, implementation plan, tests and submission checklist.
 
-**Status:** implemented and locally tested. The offline demo works without credentials. Live AI and real email delivery require your accounts and a final live check. Source repository: https://github.com/Mahesh897620/Snap-Study. Streamlit Cloud deployment and live service verification are pending.
+**Status:** implemented and locally tested. The offline demo works without credentials. Live AI and real email delivery require your accounts and a final live check. Source repository: https://github.com/Mahesh897620/Snap-Study. Deployed app: https://mahesh-snap-study.streamlit.app/. Deployment and the offline sample/revision-pack flow were verified on 4 October 2026 using Python 3.12. Live Gemini and Gmail verification still require credentials.
 
 ## 1. Run on your Mac
 
